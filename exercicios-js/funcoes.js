@@ -20,7 +20,7 @@ const imprimirSoma2 = function(a, b) {
     console.log(a + b)
 }
 imprimirSoma2(2, 3)
-
+ 
 //Arrow function reduzida.
 //Função usada para instruções em apenas uma linha.
 const somar2 = (a, b) => a + b
